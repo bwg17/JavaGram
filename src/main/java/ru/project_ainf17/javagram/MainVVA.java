@@ -5,7 +5,7 @@ public class MainVVA {
         System.out.println("VVA Start ... ");
 
         for (int i = 0; i < 10; i++)  {
-            System.out.println("Ура " + i);
+            System.out.println("Ура (2) " + i);
         }
     }
 }
