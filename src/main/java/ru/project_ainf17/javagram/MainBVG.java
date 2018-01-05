@@ -2,7 +2,7 @@ package ru.project_ainf17.javagram;
 
 public class MainBVG {
     public static void main(String[] args) {
-        System.out.println("BVG Start ... ");
-        System.out.println("BVG End ... ");
+        System.out.println("BVG Start ...");
+        System.out.println("BVG End ...");
     }
 }
